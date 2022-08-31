@@ -14,17 +14,9 @@ Desitions lead our way and the way of any business, for this reason i became a b
 ## Table of contents
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
-1
-2
-3
-4
+        
 
-- [Study Projects](#study-projects)
-- 1
-- 2
-- 3
-- 4
-- 5
+
 ## Portfolio Projects
 1
 2
@@ -32,5 +24,12 @@ Desitions lead our way and the way of any business, for this reason i became a b
 4
 
 ## Study Projects
+1
+2
+3
+4
 
-
+### SQL Querys
+**Description:** SQL queries for tasks from [codecademy](https://www.codecademy.com/learn/learn-sql), [sql-practice](https://www.sql-practice.com/), [Hackerrank](hackerrank.com/domains/sql?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=sql) etc.      
+**Repository:** Check the repository having 400+ SQL queries ---> [go to repo..](https://github.com/ultramarp)  
+**Status:** Some of the courses are still in progress.  
