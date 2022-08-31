@@ -12,9 +12,24 @@ Desitions lead our way and the way of any business, for this reason i became a b
 **Come!, JOIN ME! and check what i´ve been doing over here.**
 
 ## Table of contents
+- [About](#about)
+- [Portfolio Projects](#portfolio-projects)
+1
+2
+3
+4
 
-
+- [Study Projects](#study-projects)
+- 1
+- 2
+- 3
+- 4
+- 5
 ## Portfolio Projects
+1
+2
+3
+4
 
 ## Study Projects
 
