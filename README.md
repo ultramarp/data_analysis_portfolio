@@ -31,5 +31,5 @@ Desitions lead our way and the way of any business, for this reason i became a b
 
 ### SQL Querys
 **Description:** SQL queries for tasks from [codecademy](https://www.codecademy.com/learn/learn-sql), [sql-practice](https://www.sql-practice.com/), [Hackerrank](hackerrank.com/domains/sql?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=sql) etc.      
-**Repository:** Check the repository having 400+ SQL queries ---> [go to repo..](https://github.com/ultramarp)  
-**Status:** Some of the courses are still in progress.  
+**Repository:** Check the repository having 200+ SQL queries ---> [go to repo..](https://github.com/ultramarp)  
+**Status:** I'm always on the look out for more querys to solve.  
