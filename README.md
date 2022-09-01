@@ -7,7 +7,7 @@ You´ll see, i´ve always been curious and as a tech nerd i began to study every
 
 _So...desitions huh_
 
-Desitions lead our way and the way of any business, for this reason i became a business intelligence specialist, to be able purge the data, connect the dots and create a path to move forward safely, but to do this, technical skills are needed and this is my humble repository to showcase my skills, projects, and my journey to become a master in data sciences.
+Desitions lead our way and the way of any business and for this reason i became a business intelligence specialist, to be able purge the data, connect the dots and create a path to move forward safely, but to do this, technical skills are needed and this is my humble repository to showcase my skills, projects, and my journey to become a master in data sciences.
 
 **Come!, JOIN ME! and check what i´ve been doing over here.**
 
