@@ -3,7 +3,7 @@
 
 Hi, I´m Martin!, industrial engineer from colombia, i have 3 years of experience in supply chain management, inventory and data analysis, and it was in this last role where i truly found something i love doing.
 
-You´ll see, i´ve always been curious and as a tech nerd i began to study everything related to data science and i found a profound interest on how finding the right insights can have such a big impact in any business, i see it like how sherlock holmes digs into a mistery looking for ways to connect the dots to find the neccesary insights that can make him take the right desitions and solve the mistery.:shipit:
+You´ll see, i´ve always been curious about why things happen and the reasons behind it, so as a tech nerd i began to study everything related to data science and i found a profound interest on how finding the right insights can have such a big impact in any business, i see it like how sherlock holmes digs into a mistery looking for ways to connect the dots to find the neccesary data that can make him take the right desitions and solve the mistery.:shipit:
 
 _So...desitions huh_
 
