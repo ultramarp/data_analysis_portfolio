@@ -19,7 +19,7 @@ Desitions lead our way and the way of any business and for this reason i became 
         
 
 ## Study Projects
-- [datacademy](#
+- Basic exploratory analysis of the 25 largest retailers in the US [Datacademy](https://github.com/ultramarp/data_analysis_portfolio/blob/main/datacademy_platzi.ipynb)
 ## Portfolio Projects
 1
 2
