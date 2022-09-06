@@ -13,21 +13,19 @@ Desitions lead our way and the way of any business and for this reason i became 
 
 ## Table of contents
 - [About](#about)
+- [Study Projects](#study-projects)
 - [Portfolio Projects](#portfolio-projects)
+
         
 
-
+## Study Projects
+- [datacademy](#
 ## Portfolio Projects
 1
 2
 3
 4
 
-## Study Projects
-1
-2
-3
-4
 
 ### SQL Querys
 **Description:** SQL queries for tasks from [codecademy](https://www.codecademy.com/learn/learn-sql), [sql-practice](https://www.sql-practice.com/), [Hackerrank](hackerrank.com/domains/sql?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=sql) etc.      
