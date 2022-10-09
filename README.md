@@ -20,6 +20,8 @@ Desitions lead our way and the way of any business and for this reason i became 
 
 ## Study Projects
 - Basic exploratory analysis of the 25 largest retailers in the US [Datacademy](https://github.com/ultramarp/data_analysis_portfolio/blob/main/datacademy_platzi.ipynb)
+- Correlation analysis in the movie industry [Movie industry Correlation](https://github.com/ultramarp/Python-Turbo/blob/main/Movie%20Industry%20Correlations.ipynb)
+
 ## Portfolio Projects
 1
 2
