@@ -15,7 +15,7 @@ Desitions lead our way and the way of any business and for this reason i became 
 - [About](#about)
 - [Study Projects](#study-projects)
 - [Portfolio Projects](#portfolio-projects)
-
+- [SQL Querys](#SQL-querys)
         
 
 ## Study Projects
