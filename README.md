@@ -23,12 +23,12 @@ Desitions lead our way and the way of any business and for this reason i became 
 
 ## Portfolio Projects
 1- Correlation analysis in the movie industry [Movie industry Correlation](https://github.com/ultramarp/Python-Turbo/blob/main/Movie%20Industry%20Correlations.ipynb)
-2- 
+2- Covid Dataset Data Exploration on SQL [Data Exploration on SQL](https://github.com/ultramarp/SQLJourney/blob/main/Covid%20Data%20Exploration%20.ipynb)
 3
 4
 
 
-### SQL Querys
+## SQL querys
 **Description:** SQL queries for tasks from [codecademy](https://www.codecademy.com/learn/learn-sql), [sql-practice](https://www.sql-practice.com/), [Hackerrank](hackerrank.com/domains/sql?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=sql) etc.      
 **Repository:** Check the repository having 100+ SQL queries ---> [go to repo..](https://github.com/ultramarp/SQL-Journey)  
 **Status:** I'm always on the look out for more querys to solve.  
