@@ -23,6 +23,7 @@ Desitions lead our way and the way of any business and that is why i decided to 
 
 ## Portfolio Projects
 1- Correlation analysis in the movie industry [Movie industry Correlation](https://github.com/ultramarp/Python-Turbo/blob/main/Movie%20Industry%20Correlations.ipynb)
+
 2- Covid Dataset Data Exploration on SQL [Data Exploration on SQL](https://github.com/ultramarp/SQL-Journey/blob/main/Covid_Queries.sql)                                3                                                                                                                                                                       
 4
 
